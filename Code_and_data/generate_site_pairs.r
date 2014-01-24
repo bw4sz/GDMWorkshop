@@ -32,7 +32,7 @@ composition_no_xy <- composition[,-(1:2)]
 # generate a Bray-Curtis (Sorenson) distance matrix for the first 10 sites and view it
 dist.matrix <- bcdist(composition_no_xy[1:10,],rmzero=TRUE)
 dist.matrix <- fixdmat(dist.matrix) # convert to regular matrix format
-dist.matrix
+print (dist.matrix)
 
 # now generate the full matrix
 dist.matrix <- bcdist(composition_no_xy,rmzero=TRUE)
