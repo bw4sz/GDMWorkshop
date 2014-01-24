@@ -1,0 +1,8 @@
+"","variable","deviance reduction","variable","deviance reduction","variable","deviance reduction","variable","deviance reduction","variable","deviance reduction","variable","deviance reduction"
+"1","geo","15.8861488347811","geo","15.8861488346969","geo","16.5681806451474","precip_PET_ratio","198.413733027721","precip_PET_ratio","241.548835595969","precip_PET_ratio","620.308433525568"
+"2","precip_PET_ratio","140.376893509574","precip_PET_ratio","141.5546426813","precip_PET_ratio","153.042184470739","Isothermallity","25.3297978948834","Min_Temp_July","115.639747328397","Min_Temp_July","136.718270968499"
+"3","Isothermallity","25.4516588538199","Isothermallity","25.4995062869313","Isothermallity","24.8367487381345","Min_Temp_July","45.4817649723828","jan_rad","29.4626970937449",NA,NA
+"4","Min_Temp_July","27.4158075517644","Min_Temp_July","27.4158075517644","Min_Temp_July","33.4457176515607","jan_rad","26.4099920291302",NA,NA,NA,NA
+"5","jan_rad","18.8135814018573","jan_rad","18.8135814018573","jan_rad","18.1483854677651",NA,NA,NA,NA,NA,NA
+"6","bulk_density","1.12929750614535","bulk_density","1.26454280905102",NA,NA,NA,NA,NA,NA,NA,NA
+"7","solpawhc","0",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA

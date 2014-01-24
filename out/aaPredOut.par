@@ -1,0 +1,29 @@
+#######################################################################
+###
+### GDM .NET Parameter file for the Add Predictors Panel
+###
+### Created 1/6/2014 10:54:18 PM
+###
+
+
+[INPUT]
+InputTable=C:\GDM_workshop\out\GDM_Composite_01.csv
+
+
+[PREDICTORS]
+NumPredictors=4
+EnvGrid1=C:\GDM_workshop\Code_and_data\Tas_Plant_GDM_Files\Float grids\isothermality_2010_1km
+EnvGrid2=C:\GDM_workshop\Code_and_data\Tas_Plant_GDM_Files\Float grids\jan_rad_2010_1km
+EnvGrid3=C:\GDM_workshop\Code_and_data\Tas_Plant_GDM_Files\Float grids\mintempjuly_2010_1km
+EnvGrid4=C:\GDM_workshop\Code_and_data\Tas_Plant_GDM_Files\Float grids\precip_pet_ratio_2010_1km
+
+PredType1=0  ## Grid_Predictor
+PredType2=0  ## Grid_Predictor
+PredType3=0  ## Grid_Predictor
+PredType4=0  ## Grid_Predictor
+
+
+[OUTPUT]
+OutputTable=C:\GDM_workshop\out\aaPredOut.csv
+
+

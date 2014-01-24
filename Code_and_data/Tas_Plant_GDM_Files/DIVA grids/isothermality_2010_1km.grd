@@ -1,0 +1,33 @@
+[General]
+Creator=DIVA-GIS
+Created=20131205
+Title=isothermality_2010_1km
+
+[GeoReference]
+Projection=
+Datum=
+Mapunits=
+Columns=470
+Rows=479
+MinX=143.8
+MaxX=148.5
+MinY=-43.7425
+MaxY=-38.9525
+ResolutionX=0.00999999999999998
+ResolutionY=0.01
+
+[Data]
+DataType=FLT4BYTES
+MinValue=0.38068750500679
+MaxValue=0.535000026226044
+NoDataValue=-3.4E38
+Transparent=0
+Units=
+
+[Legend]
+NoDataColor=0
+NoDataLabel=No Data
+
+[Application]
+Opt0=Imported ASCII data from: C:\Documents and Settings\mok010\Karels Files\Mokany Files\GDM\ISB_workshop\Tas_Data_files\isothermality_2010_1km.asc
+

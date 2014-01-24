@@ -1,0 +1,8 @@
+"","variable","p-value","variable","p-value","variable","p-value","variable","p-value","variable","p-value","variable","p-value"
+"1","geo","0","geo","0","geo","0","precip_PET_ratio","0","precip_PET_ratio","0","precip_PET_ratio","0"
+"2","precip_PET_ratio","0","precip_PET_ratio","0","precip_PET_ratio","0","Isothermallity","0","Min_Temp_July","0","Min_Temp_July","0"
+"3","Isothermallity","0","Isothermallity","0","Isothermallity","0","Min_Temp_July","0","jan_rad","0",NA,NA
+"4","Min_Temp_July","0","Min_Temp_July","0","Min_Temp_July","0","jan_rad","0",NA,NA,NA,NA
+"5","jan_rad","0","jan_rad","0","jan_rad","0",NA,NA,NA,NA,NA,NA
+"6","bulk_density","0.6","bulk_density","0",NA,NA,NA,NA,NA,NA,NA,NA
+"7","solpawhc","1",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
