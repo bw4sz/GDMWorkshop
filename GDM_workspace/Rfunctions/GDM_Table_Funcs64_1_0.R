@@ -1,7 +1,7 @@
 ##
 ## edit this path to reference the GDM table dll if it is in a different location on your machine
 ##
-"mydllpath" <- "C:\\MyDLL_TestDirectory\\GDMBinLib64.dll"
+"mydllpath" <- paste(gitpath, "GDMWorkspace/Rfunctions/GDMBinLib64.dll", sep="")
 
 
 "gdm.fitfromtable" <- 

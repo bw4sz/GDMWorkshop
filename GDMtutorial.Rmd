@@ -2,7 +2,7 @@ GDM Workshop
 ========================================================
 
 ```{r}
-gitpath<-"C:/Users/Jorge/Documents/GDMWorkshop/"
+gitpath<-"C:/Users/sarah/Dropbox/Lab docs/GDM_workshop/"
 setwd(paste(gitpath,"Code_and_data",sep=""))
 
 require(raster)
