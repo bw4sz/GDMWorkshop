@@ -15,7 +15,7 @@
 library(ecodist)
 
 # define the file locations
-work.dir <- "Tas_Plant_GDM_Files/"   # EDIT THIS TO YOUR LOCATION
+work.dir <- "Tas_Plant_GDM_Files"   # EDIT THIS TO YOUR LOCATION
 input.filename <- "Tas_Plant_Composition_5Dec13.csv"
 output.filename <- "site_pairs_formatted.csv"
 

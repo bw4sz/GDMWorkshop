@@ -17,19 +17,25 @@ To add the environment values for each site pair
 source("generate_site_pairs.r")
 ```
 
-use the script generate GDM input.r to add the environment values for each site pair
+Add the environment values for each site pair
 --------------------------------
 
-setwd(paste(gitpath,"Code_and_data",sep=""))
+This script takes a table with compositional dssimilarity between pairs of sites, and adds columns for environment at each of the sites, in the format required by GDM for Tables in R
+
 ```{r}
+setwd(paste(gitpath,"Code_and_data/",sep=""))
 source("generate_GDM_input.r")
 ```
 
-2 Model fitting and testing
-2.1 Fit a GDM model
+Fit a GDM model
 ====================
-  
+
+> 1 the first section demonstrates how to prepare the data & run a single GDM;
+> 2 the second section is the significance test function;
+> 3 the third section explains and demonstrates the application of the significance test function.
+
 ```{r}
+setwd(paste(gitpath,"Code_and_data/",sep=""))
 source("gdm_fit_and_test.r")
 ```
 
