@@ -20,7 +20,7 @@
 source(paste(gitpath,"GDM_workspace\\Rfunctions\\GDM_Table_Funcs64_1_0.R",sep=""))
 mydllpath<-"GDM_workspace\\Rfunctions\\GDMBinLib64.dll"
 
-setwd("C:\\GDM_workshop\\Code_and_data\\Tas_Plant_GDM_Files/")
+setwd("Tas_Plant_GDM_Files/")
 
 ## The following loads the composition data (sites = rows, species = columns) as "composition.data"
 ## and the independent variables data (sites = rows, independent variables = columns) as "ind.variables"
